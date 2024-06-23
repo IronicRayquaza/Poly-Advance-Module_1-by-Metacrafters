@@ -22,7 +22,7 @@ npx hardhat run scripts/batchMint.js --network volta
 
 
 #deposit
-npx hardhat run scripts/approveDeposit.js --network volta
+npx hardhat run scripts/approvedDeposit.js --network volta
 ```
 NFT transfered from Volta to Sepolia.
 
